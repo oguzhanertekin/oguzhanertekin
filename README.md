@@ -12,4 +12,7 @@ Hi, I'm Oğuzhan. I study at **Hacettepe University Computer Science Department*
 > 👨‍💻 I'm Director of Advertising and Promotion Department at ACM Hacettepe Student Chapter (Association for Computing Machinery)
 
 
-![linkedin-logo kopya](https://user-images.githubusercontent.com/68961575/153865481-500d5b35-55d2-4f34-b3ed-32478733e3cb.png) [Linkedin](linkedin.com/in/oğuzhan-ertekin/)
+<img width="276" alt="image-removebg-preview" src="https://user-images.githubusercontent.com/68961575/153865888-49671da3-f208-41f3-9148-cda0149c8fed.png">
+
+
+![linkedin-logo kopya](https://user-images.githubusercontent.com/68961575/153865481-500d5b35-55d2-4f34-b3ed-32478733e3cb.png) [Oğuzhan Ertekin](https://www.linkedin.com/in/o%C4%9Fuzhan-ertekin/)
