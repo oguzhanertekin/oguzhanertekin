@@ -5,11 +5,13 @@ Hi, I'm Oğuzhan. I study at **Hacettepe University Computer Science Department*
 
 ![a](https://user-images.githubusercontent.com/68961575/153859046-f6abbcd2-3f5a-44be-a200-acdc7f0b7adb.jpg)
 
-> 🎓 I'm studying at Hacettepe University Computer Science Department
+> 🎓 Studying at Hacettepe University Computer Science Department
 
-> 💻 I'm working at Office of Career Services Hacettepe
+> 💻 Working at Innova as a Software Developer Intern
 
-> 👨‍💻 I'm Director of Advertising and Promotion Department at ACM Hacettepe Student Chapter (Association for Computing Machinery)
+> 💻 Working at Office of Career Services Hacettepe
+
+> 👨‍💻 Vice President at ACM Hacettepe Student Chapter (Association for Computing Machinery)
 
 
 <img width="276" alt="image-removebg-preview" src="https://user-images.githubusercontent.com/68961575/153865888-49671da3-f208-41f3-9148-cda0149c8fed.png">
