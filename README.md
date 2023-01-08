@@ -3,7 +3,7 @@ Hi, I'm Oğuzhan. I study at **Hacettepe University Computer Science Department*
 
 
 
-![a](https://user-images.githubusercontent.com/68961575/153859046-f6abbcd2-3f5a-44be-a200-acdc7f0b7adb.jpg)
+
 
 > 🎓 Studying at Hacettepe University Computer Science Department
 
