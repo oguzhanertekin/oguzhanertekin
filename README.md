@@ -7,7 +7,7 @@ Hi, I'm Oğuzhan. I study at **Hacettepe University Computer Science Department*
 
 > 🎓 Studying at Hacettepe University Computer Science Department
 
-> 💻 Working at Innova as a Software Developer Intern
+> 💻 Working at OBSS as a Software Developer Intern
 
 > 💻 Working at Office of Career Services Hacettepe
 
