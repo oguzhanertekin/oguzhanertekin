@@ -20,6 +20,7 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://github.com/oguzhanertekin/oguzhanertekin/assets/68961575/ca51c08e-d9df-4361-99e6-bde047c78f38"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://github.com/oguzhanertekin/oguzhanertekin/assets/68961575/4e4000d0-1077-4d36-9f9e-e94e708fbb3e"></code>
 <code><img height="20" src="https://github.com/oguzhanertekin/oguzhanertekin/assets/68961575/bdc95dcd-c442-4749-8495-518d18943baa"></code>
 <code><img height="20" src="https://github.com/oguzhanertekin/oguzhanertekin/assets/68961575/0b28ff4d-452e-4ee9-9bbd-e57d7ea00cc6"></code>
 <code><img height="20" src="https://github.com/oguzhanertekin/oguzhanertekin/assets/68961575/77d74320-6e31-4958-ae87-5f6534461a51"></code>
