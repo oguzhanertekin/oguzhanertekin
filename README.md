@@ -1,6 +1,16 @@
 ## Hi There I'm Oğuzhan👋 
 I study at **Hacettepe University Computer Science Department**. I'm interested in software and graphic design. In the future, I want to create good projects by using these two skills at the same time. I'm a person who is prone to teamwork,responsibe and has a predominant leadership direction. ☺️
 
+
+
+> 🎓 Studying at Hacettepe University Computer Science Department as a senior student
+
+> 💻 Working at Hacettepe University Career Development Application Research Center
+
+> 🧙🏻‍♂️ Designer at Hacettepe Career Fair
+
+> 👨‍💻 Vice President at ACM Hacettepe Student Chapter (Association for Computing Machinery)
+
 **Languages and Tools**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -14,20 +24,6 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 <code><img height="20" src="https://github.com/oguzhanertekin/oguzhanertekin/assets/68961575/0b28ff4d-452e-4ee9-9bbd-e57d7ea00cc6"></code>
 <code><img height="20" src="https://github.com/oguzhanertekin/oguzhanertekin/assets/68961575/77d74320-6e31-4958-ae87-5f6534461a51"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-
-
-
-> 🎓 Studying at Hacettepe University Computer Science Department as a senior student
-
-> 💻 Working at Hacettepe University Career Development Application Research Center
-
-> 🧙🏻‍♂️ Designer at Hacettepe Career Fair
-
-> 👨‍💻 Vice President at ACM Hacettepe Student Chapter (Association for Computing Machinery)
-
-
 
 
 
