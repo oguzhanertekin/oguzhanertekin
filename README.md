@@ -30,21 +30,7 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 
 
 
-
-
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=radical)
-
 ![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=tokyonight)
-
-
-
-
-
-
-
-
-
-
 
 
 **Contact Me**
