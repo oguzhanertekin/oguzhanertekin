@@ -31,31 +31,16 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 
 
 
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=2077)
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=dracula)
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=github)
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=github_dark)
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=gruvbox)
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=monokai)
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=nord_bright)
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=nord_dark)
+
 ![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=radical)
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=solarized)
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=solarized_dark)
+
 ![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=tokyonight)
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=vue)
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=zenburn)
 
 
 
 
 
-![a](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foguzhanertekin1212%2Fhit-counter)
 
-![a](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanertekin)
-![a](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oguzhanertekin)
-![a](https://github-readme-streak-stats.herokuapp.com/?user=oguzhanertekin)
-![a](https://github-profile-trophy.vercel.app/?username=oguzhanertekin)
 
 
 
