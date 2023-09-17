@@ -30,6 +30,9 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 
 
 
+[![Linkedin](https://gists-readme.yizack.com/api/pin?user={username}&id={gist_id}&owner=true)]
+
+
 
 **Contact Me**
 
