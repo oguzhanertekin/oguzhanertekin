@@ -29,3 +29,7 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 
 
 ![linkedin-logo kopya](https://user-images.githubusercontent.com/68961575/153865481-500d5b35-55d2-4f34-b3ed-32478733e3cb.png) [Oğuzhan Ertekin](https://www.linkedin.com/in/o%C4%9Fuzhan-ertekin/)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
