@@ -30,7 +30,7 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 
 
 
-[![Linkedin](https://gists-readme.yizack.com/api/pin?user={oguzhanertekin}&id={gist_id}&owner=true)]
+![Linkedin](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={oguzhanertekin})
 
 
 
