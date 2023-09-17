@@ -28,9 +28,9 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 
 
 
-![linkedin-logo kopya](https://user-images.githubusercontent.com/68961575/153865481-500d5b35-55d2-4f34-b3ed-32478733e3cb.png) [Oğuzhan Ertekin](https://www.linkedin.com/in/o%C4%9Fuzhan-ertekin/)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/o%C4%9Fuzhan-ertekin/))
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/o%C4%9Fuzhan-ertekin/))
 &nbsp;
 [![GitHub](https://github.com/oguzhanertekin/oguzhanertekin/assets/68961575/2274344f-44f2-4034-9787-2e72e26e5b54) GitHub](https://github.com/)
 
