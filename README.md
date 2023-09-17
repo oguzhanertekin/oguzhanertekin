@@ -9,7 +9,7 @@ Hi, I'm Oğuzhan. I study at **Hacettepe University Computer Science Department*
 
 > 💻 Working at OBSS as a Software Developer Intern
 
-> 💻 Working at Office of Career Services Hacettepe
+> 💻 Working at Hacettepe University Career Development Application Research Center
 
 > 🧙🏻‍♂️ Designer at Hacettepe Career Fair
 
