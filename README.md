@@ -26,7 +26,7 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 <code><img height="20" src="https://github.com/oguzhanertekin/oguzhanertekin/assets/68961575/77d74320-6e31-4958-ae87-5f6534461a51"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img src="https://github.com/oguzhanertekin/oguzhanertekin/assets/68961575/e0656588-d9c7-43a5-ae11-211c523d617f)" width="auto">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lambdatest.com%2Fnewsletter%2Feditions%2Fissue24&psig=AOvVaw1W1JwTj_McTgUjKf1ZzJA8&ust=1695037645492000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiuz7fJsYEDFQAAAAAdAAAAABBN" width="auto">
 
 
 
