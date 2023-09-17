@@ -5,11 +5,13 @@ Hi, I'm Oğuzhan. I study at **Hacettepe University Computer Science Department*
 
 
 
-> 🎓 Studying at Hacettepe University Computer Science Department
+> 🎓 Studying at Hacettepe University Computer Science Department as a senior student
 
 > 💻 Working at OBSS as a Software Developer Intern
 
 > 💻 Working at Office of Career Services Hacettepe
+
+> 🧙🏻‍♂️ Designer at Hacettepe Career Fair
 
 > 👨‍💻 Vice President at ACM Hacettepe Student Chapter (Association for Computing Machinery)
 
