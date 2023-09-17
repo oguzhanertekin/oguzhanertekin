@@ -8,8 +8,6 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 
 > 🎓 Studying at Hacettepe University Computer Science Department as a senior student
 
-> 💻 Working at OBSS as a Software Developer Intern
-
 > 💻 Working at Hacettepe University Career Development Application Research Center
 
 > 🧙🏻‍♂️ Designer at Hacettepe Career Fair
