@@ -11,7 +11,6 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 
 > 🧙🏻‍♂️ Designer at Hacettepe Career Fair
 
-> 👨‍💻 Vice President at ACM Hacettepe Student Chapter (Association for Computing Machinery)
 
 **Languages and Tools**
 
