@@ -29,7 +29,7 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 
 ![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhanertekin&theme=tokyonight)
 
-<img src="https://www.lambdatest.com/resources/images/news24.gif" width="auto" height="300">
+<img src="https://www.lambdatest.com/resources/images/news24.gif" width="auto" height="250">
 
 
 
