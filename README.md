@@ -1,5 +1,7 @@
 ## Hi There I'm Oğuzhan👋 
-I study at **Hacettepe University Computer Science Department**. I'm interested in software and graphic design. In the future, I want to create good projects by using these two skills at the same time. I'm a person who is prone to teamwork,responsibe and has a predominant leadership direction. ☺️
+As a graduate of Hacettepe University’s Computer Science Department, I am currently working as a software developer at Technarts. With a passion for both software development and graphic design, I aim to merge these two fields to create innovative and impactful projects.
+
+I thrive in collaborative environments, take responsibility with a strong sense of leadership, and am constantly seeking opportunities to grow my skills while contributing to meaningful projects. ☺️
 
 
 
