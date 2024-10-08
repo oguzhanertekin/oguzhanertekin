@@ -3,13 +3,9 @@ I study at **Hacettepe University Computer Science Department**. I'm interested 
 
 
 
-> 🎓 Studying at Hacettepe University Computer Science Department as a senior student
+> 🎓 Hacettepe University Computer Science
 
 > 💻 Working at TechNarts as a Software Developer
-
-> 💻 Working at Hacettepe University Career Development Application Research Center
-
-> 🧙🏻‍♂️ Designer at Hacettepe Career Fair
 
 
 **Languages and Tools**
